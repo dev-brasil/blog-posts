@@ -5,9 +5,8 @@ branches:
 install:
 - pip install pelican ghp-import Markdown
 script:
-- echo -e "${GH_DEPLOY_KEY}" > ~/.ssh/id_rsa2
-- chmod 600 ~/.ssh/id_rsa2
-- alias ssh='ssh -i ~/.ssh/id_rsa2'
+- echo -e "${GH_DEPLOY_KEY}" > ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
 - git clone 'git@github.com:dev-brasil/dev-brasil.github.io.git' theblog
 - cd theblog
 - git clone 'https://github.com/dev-brasil/blog-posts.git' content
