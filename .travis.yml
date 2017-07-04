@@ -18,5 +18,6 @@ script:
 - make publish
 - git add .
 - git commit -a -m 'okz'
+- git config --global push.default matching
 - git push
 
