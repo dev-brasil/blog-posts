@@ -13,11 +13,11 @@ linux (Ubuntu) por si mesmo.
 
 *ESCREVA-ME!* apenas uma linha basta. Tipo : “porque sim”, ou “depois eu explico.” :)
 
-### Instalando o linux no meu pc pessoal
+## Instalando o linux no meu pc pessoal
 
 *instruções para instalação via USB drive, dual-boot*
 
-### E se eu tiver dificuldades
+## E se eu tiver dificuldades
 
 *sobre como consultar a comunidade para resolver suas dificuldades*
 
